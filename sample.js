@@ -1,3 +1,3 @@
 var x;
-x="hello world";
+x="hello git";
 document.write(x);
